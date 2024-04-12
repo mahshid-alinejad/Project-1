@@ -173,3 +173,6 @@ Social networking APIs and SDKs: Social networking APIs and SDKs enable YouTube 
 Content moderation and community management tools: Content moderation and community management tools ensure a safe and welcoming environment for users, helping to maintain a positive and supportive community atmosphere conducive to engagement and collaboration.
 User engagement metrics and analytics dashboards: User engagement metrics and analytics dashboards provide valuable insights into community activity and interactions, enabling YouTube to track engagement metrics, identify trends, and optimize community-building efforts effectively.
 In summary, these technologies are appropriate for the suggested solutions because they provide the necessary tools, capabilities, and infrastructure to deliver compelling and innovative features and functionalities that align with the goals and objectives of each solution. They enable YouTube to enhance user experiences, drive engagement and retention, and create new revenue opportunities, ultimately contributing to the platform's continued success and growth.
+
+
+Sources: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset/data
