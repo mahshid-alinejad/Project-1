@@ -38,7 +38,8 @@ After processing the data and doing some exploratory analysis, here are the most
 
 - There is a strong positive correlation between likes and view count.
 - On average, videos with disabled comments and ratings have significantly fewer dislikes compared to those with enabled comments and ratings. Additionally, despite disabled engagement features, such videos still garner a higher view count. This correlation may indicate that limiting user feedback could lead to a more positively perceived content, potentially driving higher engagement in terms of likes and views. However, further analysis is needed to ascertain causation and account for other factors influencing viewer engagement.
-  
+  ![image](https://github.com/mahshid-alinejad/Project-1/assets/156038769/46c1b5bd-6b53-422d-9700-300214f9e49f)
+
 - Top 5 Categories are :
 - Top 5 Tags are:
 - Top 2 industries are gaming and sport industries
@@ -48,11 +49,13 @@ After processing the data and doing some exploratory analysis, here are the most
 
 ## Recommendations based on Popularity to a New User
 
+
 As the name suggests it recommends based on what is currently trending/ popular across the site. This is particularly useful when you don't have past data as a reference to recommend product to the user. It is not tailor fit for any particular group of audience.
 
 These are the most popular categories
 These are the most popular tags
 These are ......
+![image](https://github.com/mahshid-alinejad/Project-1/assets/156038769/f80478aa-1cf8-48d4-8939-d3dd3d464d2d)
 
 <img align="center" width="600" height="400" src='images/get recommendation based on popularity.png'>
 
