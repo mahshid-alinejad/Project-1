@@ -42,7 +42,7 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 
 <img align="center" width="900" height="300" src='images/Distribution of Genres.png'>
 
-- We found out top trending videos from Aug 2020 to Apr 2024,as well as which day of the week and what time of the day are peak times. So if someone needs our consultant on best days to post and which hour is the best hour to post, our analysis shows that Saturday are the best days to go viral and the Youtube video postings are usually go viral after 9hrs of publishing and it takes an average of 5 days for videos to trend.  There is also a strong positive correlation between likes and view count.
+- We found out top trending videos from Aug 2020 to Apr 2024,as well as which day of the week and what time of the day are peak times. So if someone needs our consultant on best days to post and which hour is the best hour to post.  There is also a strong positive correlation between likes and view count. Our data represents that top industries in Youtube channel are gaming, sports and News. 
 
 
 
@@ -63,7 +63,7 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 
 ## Recommendations based on Popularity to a New User
 
-Our data shows that Saturday are the best days to go viral and the Youtube video postings are usually go viral after 9 hrs of publishing. According to our analysis it also takes an average 5 days for videos to trend. 
+Our data shows that Saturday are the best days to go viral and the Youtube video postings are usually go viral after 9 hrs of publishing. According to our analysis it also takes an average 5 days for videos to trend. Our data represents that top industries in Youtube channel are gaming, sports and News. People blogging has been one of the top brands which might help increase the sale for companies with cosumer goods products such as skin care, clothing, etc.,
 
 As the name suggests it recommends based on what is currently trending/ popular across the site. This is particularly useful when you don't have past data as a reference to recommend product to the user. It is not tailor fit for any particular group of audience.
 
