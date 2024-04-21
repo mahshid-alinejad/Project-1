@@ -44,6 +44,7 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 
 - We found out top trending videos from Aug 2020 to Apr 2024,as well as which day of the week and what time of the day are peak times. So if someone needs our consultant on best days to post and which hour is the best hour to post.  There is also a strong positive correlation between likes and view count. Our data represents that top industries in Youtube channel are gaming, sports and News. 
 
+We 
 
 
 - After analyzing the dataset, several key findings emerge. The top 10 fastest viral YouTube videos within the first 24 hours highlight the potential for rapid audience engagement. Understanding trends in the number of trending videos by day of the week offers insights into optimal upload times. The top 10 channels by total view count showcase successful strategies for building a large audience. Analysis of average views by month reveals seasonal viewership patterns, while common tags provide guidance for content optimization. Metrics such as total views and comments by channel and video category offer comprehensive insights into audience engagement levels and content preferences. Additionally, examining the frequency of posting by top channels and metrics like total comments, dislikes, and likes by video views provides valuable strategies for maximizing audience interaction and content effectiveness.
@@ -63,12 +64,16 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 
 ## Recommendations based on Popularity to a New User
 
-Our data shows that Saturday are the best days to go viral and the Youtube video postings are usually go viral after 9 hrs of publishing. According to our analysis it also takes an average 5 days for videos to trend. Our data represents that top industries in Youtube channel are gaming, sports and News. People blogging has been one of the top brands which might help increase the sale for companies with cosumer goods products such as skin care, clothing, etc.,
+Our data shows that Saturday are the best days to go viral and the Youtube video postings are usually go viral after 9 hrs of publishing. According to our analysis it also takes an average 5 days for videos to trend. Our data represents that top industries in Youtube channel are gaming, sports and News. People blogging has been one of the top brands which might help increase the sale for companies with consumer goods products such as skin care, clothing, etc.,
 
-The more engagement involves things such as leaving the comment section for exaple always open, also there is a strong relation between using more tags and getting more views.  
+Based on these datas we can recommond people who just want to start a business which product categories have the most views and if gaming for example top industry maybe selling a toy can bring a high sales by posting on Youtube as a markeing platform. 
+We dived deeper into the data and we conducted a research on top categories based on higherst view counts to figure out what industries under consumer goods products will also thrive on Youtube platform as their digital marketing strategy, pet products, cars, traveling 
 
-As the name suggests it recommends based on what is currently trending/ popular across the site. This is particularly useful when you don't have past data as a reference to recommend product to the user. It is not tailor fit for any particular group of audience.
 
+
+The more engagement involves things such as leaving the comment section for example always open, also there is a strong relation between using more tags and getting more views.  Channels with higher frequency of posting get more views as well. 
+
+As the name suggests it recommends based on what is currently trending/ popular across the site. This is particularly useful when you don't have past data as a reference to recommend product to the user. 
 
 
 <img align="center" width="600" height="400" src='images/get recommendation based on popularity.png'>
