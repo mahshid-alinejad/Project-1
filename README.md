@@ -19,17 +19,30 @@ Are you dreaming of launching a successful YouTube channel but feeling overwhelm
 
 YouTube operates in the field of digital media and online video streaming. It provides a platform for users to upload, share, and view a wide variety of video content, including entertainment, educational, informational, and user-generated videos. As one of the world's largest online video platforms, YouTube facilitates content creation, distribution, and consumption, making it a significant player in the digital media landscape.
 
+Through careful analysis and strategic planning, we help businesses identify opportunities for growth and engagement across various social media channels. Whether it's developing a cohesive content strategy, optimizing advertising campaigns, or enhancing brand visibility, we are committed to delivering measurable results that drive business success.
+
 In this project, we're on a mission to empower aspiring YouTube and digital marketing enthusiasts with powerful recommendation engines. Whether you're dreaming of launching your own YouTube channel or diving into the world of digital marketing, we've got you covered. Through careful analysis of YouTube's top views and trends, coupled with advanced data-driven techniques, we'll craft personalized recommendations tailored to your unique goals and interests. From content strategy to audience engagement, let us guide you on the path to success in the dynamic realm of online content creation and marketing.
 
 # Data Understanding 
 
+By analyzing audience engagement, content effectiveness, and overall impact in the digital landscape, we can gain valuable insights into the effectiveness of our social media strategies and make data-driven decisions to optimize performance and achieve business objectives.
+
+1. Audience Engagement:Comments, Likes and Shares, Click-Through Rates (CTR: measures the percentage of users who click on a link or call-to-action within the content. )
+2. Content Effectiveness:Title, Tags, Description, View Count, Consistency, Publishing Frequency
+3. Overall Impact in the Digital Landscape:View counts and share counts
+By analyzing these factors and leveraging available data, you can gain valuable insights into content effectiveness and overall impact in the digital landscape, enabling you to optimize social media strategies and achieve business objectives.
+
 The dataset that I’m working with is a snip of US Youtube data from Aug 2020 to Apr 2024. Our YouTube dataset maintain a list of the top trending videos on the platform. According to Variety magazine, “To determine the year’s top-trending videos, YouTube uses a combination of factors including measuring users interactions (number of views, comments and likes). 
+
+
 
 # Data Analysis
 
-After processing the data and doing some exploratory analysis, here are the most interesting features of this dataset:
+We conducted data analysis by sorting our dataset based on "view counts" to identify trends and patterns in video popularity.
 
 <img align="center" width="900" height="300" src='images/Distribution of Genres.png'>
+
+- We found out top trending videos from Aug 2020 to Apr 2024, 
 
 - After analyzing the dataset, several key findings emerge. The top 10 fastest viral YouTube videos within the first 24 hours highlight the potential for rapid audience engagement. Understanding trends in the number of trending videos by day of the week offers insights into optimal upload times. The top 10 channels by total view count showcase successful strategies for building a large audience. Analysis of average views by month reveals seasonal viewership patterns, while common tags provide guidance for content optimization. Metrics such as total views and comments by channel and video category offer comprehensive insights into audience engagement levels and content preferences. Additionally, examining the frequency of posting by top channels and metrics like total comments, dislikes, and likes by video views provides valuable strategies for maximizing audience interaction and content effectiveness.
 
