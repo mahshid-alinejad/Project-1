@@ -65,6 +65,8 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 
 Our data shows that Saturday are the best days to go viral and the Youtube video postings are usually go viral after 9 hrs of publishing. According to our analysis it also takes an average 5 days for videos to trend. Our data represents that top industries in Youtube channel are gaming, sports and News. People blogging has been one of the top brands which might help increase the sale for companies with cosumer goods products such as skin care, clothing, etc.,
 
+The more engagement involves things such as leaving the comment section for exaple always open, also there is a strong relation between using more tags and getting more views.  
+
 As the name suggests it recommends based on what is currently trending/ popular across the site. This is particularly useful when you don't have past data as a reference to recommend product to the user. It is not tailor fit for any particular group of audience.
 
 
