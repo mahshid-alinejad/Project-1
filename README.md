@@ -42,7 +42,7 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 
 <img align="center" width="900" height="300" src='images/Distribution of Genres.png'>
 
-- We found out top trending videos from Aug 2020 to Apr 2024,as well as which day of the week and what time of the day are peak times. So if someone needs our consultant on best days to post and which hour is the best hour to post, our analysis shows that Saturday are the best days to go viral and 9A is usually peak hour for posting videos. 
+- We found out top trending videos from Aug 2020 to Apr 2024,as well as which day of the week and what time of the day are peak times. So if someone needs our consultant on best days to post and which hour is the best hour to post, our analysis shows that Saturday are the best days to go viral and the Youtube video postings are usually go viral after 9hrs of publishing and it takes an average of 5 days for videos to trend.  There is also a strong positive correlation between likes and view count.
 
 
 
@@ -51,12 +51,9 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 
 <img align="center" width="900" height="300" src='images/Distribution of Ratings.png'>
 
-- There is a strong positive correlation between likes and view count.
 - On average, videos with disabled comments and ratings have significantly fewer dislikes compared to those with enabled comments and ratings. Additionally, despite disabled engagement features, such videos still garner a higher view count. This correlation may indicate that limiting user feedback could lead to a more positively perceived content, potentially driving higher engagement in terms of likes and views. However, further analysis is needed to ascertain causation and account for other factors influencing viewer engagement.
   
-- Top 5 Categories are 
-- Top 5 Tags are:
-- Top 2 industries are gaming and sport industries
+
 
 ![Snip20240417_1](https://github.com/mahshid-alinejad/Project-1/assets/158861742/b973a822-54c8-4027-8864-ff767554b98e)
 
@@ -66,22 +63,14 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 
 ## Recommendations based on Popularity to a New User
 
+Our data shows that Saturday are the best days to go viral and the Youtube video postings are usually go viral after 9 hrs of publishing. According to our analysis it also takes an average 5 days for videos to trend. 
+
 As the name suggests it recommends based on what is currently trending/ popular across the site. This is particularly useful when you don't have past data as a reference to recommend product to the user. It is not tailor fit for any particular group of audience.
 
-These are the most popular categories
-These are the most popular tags
-These are ......
+
 
 <img align="center" width="600" height="400" src='images/get recommendation based on popularity.png'>
 
-
-## Recommendations based on View Count and Total Likes and Categories and Tags
-
-Content based recommendation system is certainly good if we want to recommend suggestions based on features like View Count and Total Likes and Categories and Tags ....
-
-<img align="center" width="600" height="400" src='images/get recommendation based on genre.png'>
-
-Some limitations of content based filtering are that it can only make recommendations based on existing interests of the user, it does not consider the fact that what do other users think of an item
 
 ## Collaborative Filtering 
 
