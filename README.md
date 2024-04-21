@@ -71,6 +71,9 @@ As the name suggests it recommends based on what is currently trending/ popular 
 
 <img align="center" width="600" height="400" src='images/get recommendation based on popularity.png'>
 
+![Snip20240420_8](https://github.com/mahshid-alinejad/Project-1/assets/158861742/c1a1b9c1-0ab8-4671-a7a3-72f59fb8825e)
+
+
 
 ## Collaborative Filtering 
 
