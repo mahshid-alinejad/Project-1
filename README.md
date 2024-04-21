@@ -42,7 +42,9 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 
 <img align="center" width="900" height="300" src='images/Distribution of Genres.png'>
 
-- We found out top trending videos from Aug 2020 to Apr 2024, 
+- We found out top trending videos from Aug 2020 to Apr 2024,as well as which day of the week and what time of the day are peak times. So if someone needs our consultant on best days to post and which hour is the best hour to post, our analysis shows that Saturday are the best days to go viral and 9A is usually peak hour for posting videos. 
+
+
 
 - After analyzing the dataset, several key findings emerge. The top 10 fastest viral YouTube videos within the first 24 hours highlight the potential for rapid audience engagement. Understanding trends in the number of trending videos by day of the week offers insights into optimal upload times. The top 10 channels by total view count showcase successful strategies for building a large audience. Analysis of average views by month reveals seasonal viewership patterns, while common tags provide guidance for content optimization. Metrics such as total views and comments by channel and video category offer comprehensive insights into audience engagement levels and content preferences. Additionally, examining the frequency of posting by top channels and metrics like total comments, dislikes, and likes by video views provides valuable strategies for maximizing audience interaction and content effectiveness.
 
