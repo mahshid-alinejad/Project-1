@@ -59,7 +59,7 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 
   
 
-# Recommendation Engine
+# Recommendation
 
 
 Our data shows that Saturday are the best days to go viral and the Youtube video postings are usually go viral after 9 hrs of publishing. According to our analysis it also takes an average 5 days for videos to trend. Our data represents that top industries in Youtube channel are gaming, sports and News. People blogging has been one of the top brands which might help increase the sale for companies with consumer goods products such as skin care, clothing, etc.,
@@ -87,69 +87,34 @@ As the name suggests it recommends based on what is currently trending/ popular 
 
 
 
-## Collaborative Filtering 
-
-### Item-Based Collabrative Filtering
-
-The main idea behind these methods is to use other users’ preferences and taste to recommend new items to a user. The usual procedure is to find similar users (or items) to recommend new items which where liked by those users, and which presumably will also be liked by the user being recommended.
-
-<img align="center" width="700" height="400" src='images/movie similarity item based .png'>
-
-### Collaborative Filtering Model Based on User Ratings
-
-#### Best Performing Model
-
-<img align="center" width="900" height="400" src='images/Comparison of Models.png'>
-
-In this section, I chose **RMSE (Root Mean Squared Error)** as our evaluation metrics . We got the best RMSE result with SVDpp. Since SVDpp takes longer time to train compared to the naive SVD.So, I chose to optimize the SVD model.
-
-Finally, after optimizing the SVD model , I've gotten **0.8525** RMSE score .**That would mean the estimated ratings on average are about 0.8525 higher or lower than the actual ratings, on a 0 to 5 scale**
-
-
-After optimizing and predicting rating on model, I got 10 recommendations
-
-<img align="center" width="900" height="400" src='images/Top 10 Recommendations.png'>
-
-These look like pretty good recommendations. It’s good to see that, although I didn’t actually use the genre of the movie as a feature, the truncated matrix factorization features “picked up” on the underlying tastes and preferences of the user. I’ve recommended some comedy, drama, and romance movies — all of which were genres of some of this user’s top rated movies.
 
 # Conclusion and Future Consideration
 
-In this notebook different recommendation approaches of content and collaborative filtering has been discussed.
-
-First, I did exploratory data analysis then I started with content based filtering to recommend movie to new user based upon genre and movie popularity or the average ratings given by other users in the database.
-
-I then progressed collaborative filtering based engines which try to find similar movies or users to make their predictions. After assessing models on RMSE metric, I found SVD++ to be the most accurate model but since SVD++ hyperparameters tuning time consuming I decided to go with SVD model tuned hyperparameters by using GridSearchCV
-
-Finally, I made a recommendation engine which recommends 10 movies to specific user by using SVD model. And I added filtering options for genre and minimum number of ratings to make recommendations more accurate
-
-There is a lot of potential to do but in the future, deep learning based recommender system can be built to enhance the performance and provide better recommendations to user.
-
-# Recommendations
-
-- Collaborative Filtering Recommender Engine more effectively when it comes to recommend movies based on other users' preference but It doesn't solve the cold start problem. To help solve this problem we can use hybrid model of our naive recommendation engine and the model based recommendation engine.
-
-- Most popular genres will be a relevant aspect to take into account when building the content based recommender.
-
-- We optimized SVD model to prevent time consuming and cost but Optimizing SVDpp can be more efficient since SVDpp is an extension of SVD model which deals with both explicit feedback an implicit feedback
+## Understanding Audience Engagement
+Metrics like comments, likes, shares, and click-through rates provide valuable indicators of audience engagement.
+Channels with open comment sections tend to foster higher engagement, while videos with disabled comments may still garner significant views but fewer dislikes.
 
 
-# For More Information
+## Maximizing Content Effectiveness
+Titles, descriptions, and publishing frequency play crucial roles in shaping a video's success.
+Analyzing top categories and trends in view counts can guide content optimization efforts and help identify lucrative niches for digital marketing strategies.
 
-If you have any additional questions, feel free to contact me at ysm.cebeci@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/jade-cebeci/). Also, be sure to check out my [blogpost](https://medium.com/@ysm.cebeci/getting-started-with-recommender-systems-collobrative-filtering-e1fe9141c055) for more insights on building a personalized recommendation engine using collaborative filtering techniques.
+## Optimizing Performance in the Digital Landscape
+Saturday emerges as the best day for videos to go viral, with peak posting times occurring approximately 9 hours after publishing.
+Gaming, sports, and news are among the top-performing industries on YouTube, presenting opportunities for marketers to capitalize on these trends.
+Videos with no tags tend to garner higher average view counts, suggesting that factors beyond metadata influence viewer engagement.
 
+# Future Considerations
 
-# Repository Structure
+## Continuous Monitoring and Adaptation
+Stay abreast of evolving trends and algorithms on YouTube to adapt your strategies accordingly.
+Regularly monitor audience feedback and engagement metrics to refine your content approach and maintain relevance.
 
-    
-```
-├── images
-├── ml-latest-small
-├── the deliverables
-├── EDA_and_Data_Cleaning.ipynb
-├── Movie_Recommender_Modeling.ipynb
-└── README.md
-```
-
-
-
+## Experimentation and Innovation
+Embrace a culture of experimentation to discover new content formats, topics, and engagement strategies.
+Leverage YouTube's recommendation engine to explore emerging trends and capitalize on opportunities for audience expansion.
 Sources: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset/data
+
+## Collaboration and Community Building
+Foster collaborations with other content creators and engage with your audience to build a strong community around your channel.
+Encourage user-generated content and actively respond to viewer comments to foster a sense of connection and loyalty.
