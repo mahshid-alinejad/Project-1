@@ -3,9 +3,6 @@
 Are you dreaming of launching a successful YouTube channel but feeling overwhelmed by the vastness of the platform? Have you ever wondered what makes a YouTube video go viral? Cracking the code for creating consistently popular content can feel like a mystery. But there's a secret weapon at your disposal: YouTube trending video analytics. By analyzing these trends, you can gain valuable insights into what viewers are currently engaging with. You can then leverage this knowledge to tailor your content strategy, identify topics with high potential, and ultimately create videos that resonate with your audience and propel your channel towards success.
 
 
-
-<img align="center" width="900" height="300" src='images/MovieLens.png'>
-
 # Table of Content
 - [Business Understanding]
 - [Data Understanding]
@@ -22,6 +19,9 @@ YouTube operates in the field of digital media and online video streaming. It pr
 Through careful analysis and strategic planning, we help businesses identify opportunities for growth and engagement across various social media channels. Whether it's developing a cohesive content strategy, optimizing advertising campaigns, or enhancing brand visibility, we are committed to delivering measurable results that drive business success.
 
 In this project, we're on a mission to empower aspiring YouTube and digital marketing enthusiasts with powerful recommendation engines. Whether you're dreaming of launching your own YouTube channel or diving into the world of digital marketing, we've got you covered. Through careful analysis of YouTube's top views and trends, coupled with advanced data-driven techniques, we'll craft personalized recommendations tailored to your unique goals and interests. From content strategy to audience engagement, let us guide you on the path to success in the dynamic realm of online content creation and marketing.
+
+![Snip20240422_14](https://github.com/mahshid-alinejad/Project-1/assets/158861742/eab338a4-7f45-4ba9-86a7-ff0844a326d2)
+
 
 # Data Understanding 
 
@@ -40,7 +40,7 @@ The dataset that I’m working with is a snip of US Youtube data from Aug 2020 t
 
 We conducted data analysis by sorting our dataset based on "view counts" to identify trends and patterns in video popularity.
 
-<img align="center" width="900" height="300" src='images/Distribution of Genres.png'>
+
 
 - We found out top trending videos from Aug 2020 to Apr 2024,as well as which day of the week and what time of the day are peak times. So if someone needs our consultant on best days to post and which hour is the best hour to post.  There is also a strong positive correlation between likes and view count. Our data represents that top industries in Youtube channel are gaming, sports and News. 
 
@@ -49,7 +49,7 @@ We conducted data analysis by sorting our dataset based on "view counts" to iden
 - After analyzing the dataset, several key findings emerge. The top 10 fastest viral YouTube videos within the first 24 hours highlight the potential for rapid audience engagement. Understanding trends in the number of trending videos by day of the week offers insights into optimal upload times. The top 10 channels by total view count showcase successful strategies for building a large audience. Analysis of average views by month reveals seasonal viewership patterns, while common tags provide guidance for content optimization. Metrics such as total views and comments by channel and video category offer comprehensive insights into audience engagement levels and content preferences. Additionally, examining the frequency of posting by top channels and metrics like total comments, dislikes, and likes by video views provides valuable strategies for maximizing audience interaction and content effectiveness.
 
 
-<img align="center" width="900" height="300" src='images/Distribution of Ratings.png'>
+
 
 - On average, videos with disabled comments and ratings have significantly fewer dislikes compared to those with enabled comments and ratings. Additionally, despite disabled engagement features, such videos still garner a higher view count. This correlation may indicate that limiting user feedback could lead to a more positively perceived content, potentially driving higher engagement in terms of likes and views. However, further analysis is needed to ascertain causation and account for other factors influencing viewer engagement.
   
@@ -81,7 +81,7 @@ The more engagement involves things such as leaving the comment section for exam
 As the name suggests it recommends based on what is currently trending/ popular across the site. This is particularly useful when you don't have past data as a reference to recommend product to the user. 
 
 
-<img align="center" width="600" height="400" src='images/get recommendation based on popularity.png'>
+
 
 ![Snip20240420_8](https://github.com/mahshid-alinejad/Project-1/assets/158861742/c1a1b9c1-0ab8-4671-a7a3-72f59fb8825e)
 
