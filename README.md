@@ -116,7 +116,6 @@ Regularly monitor audience feedback and engagement metrics to refine your conten
 ## Experimentation and Innovation
 Embrace a culture of experimentation to discover new content formats, topics, and engagement strategies.
 Leverage YouTube's recommendation engine to explore emerging trends and capitalize on opportunities for audience expansion.
-Sources: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset/data
 
 ## Collaboration and Community Building
 Foster collaborations with other content creators and engage with your audience to build a strong community around your channel.
@@ -125,4 +124,5 @@ Encourage user-generated content and actively respond to viewer comments to fost
 ![image](https://github.com/mahshid-alinejad/Project-1/assets/158861742/475c395d-b5ec-4425-b41c-6e7051c11fb9)
 
 
+Sources: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset/data
 
