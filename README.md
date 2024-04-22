@@ -104,6 +104,9 @@ Saturday emerges as the best day for videos to go viral, with peak posting times
 Gaming, sports, and news are among the top-performing industries on YouTube, presenting opportunities for marketers to capitalize on these trends.
 Videos with no tags tend to garner higher average view counts, suggesting that factors beyond metadata influence viewer engagement.
 
+![Snip20240422_15](https://github.com/mahshid-alinejad/Project-1/assets/158861742/5f114d35-6612-4136-92bb-a0b3b19f90f0)
+
+
 # Future Considerations
 
 ## Continuous Monitoring and Adaptation
@@ -118,3 +121,5 @@ Sources: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
 ## Collaboration and Community Building
 Foster collaborations with other content creators and engage with your audience to build a strong community around your channel.
 Encourage user-generated content and actively respond to viewer comments to foster a sense of connection and loyalty.
+
+![image](https://github.com/mahshid-alinejad/Project-1/assets/158861742/475c395d-b5ec-4425-b41c-6e7051c11fb9)
